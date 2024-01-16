@@ -1,0 +1,108 @@
+[epoch: 0]
+train_loss: 0.7106
+lr: 0.010000
+dice coefficient: 0.000
+global correct: 70.6
+average row correct: ['84.5', '0.0']
+IoU: ['70.6', '0.0']
+mean IoU: 35.3
+
+[epoch: 1]
+train_loss: 0.6330
+lr: 0.009955
+dice coefficient: 0.494
+global correct: 91.0
+average row correct: ['96.6', '62.4']
+IoU: ['90.0', '53.2']
+mean IoU: 71.6
+
+[epoch: 2]
+train_loss: 0.5565
+lr: 0.009910
+dice coefficient: 0.653
+global correct: 95.5
+average row correct: ['98.1', '82.5']
+IoU: ['94.8', '75.2']
+mean IoU: 85.0
+
+[epoch: 3]
+train_loss: 0.5610
+lr: 0.009864
+dice coefficient: 0.673
+global correct: 96.3
+average row correct: ['97.7', '89.3']
+IoU: ['95.7', '80.0']
+mean IoU: 87.8
+
+[epoch: 4]
+train_loss: 0.5045
+lr: 0.009819
+dice coefficient: 0.602
+global correct: 94.0
+average row correct: ['99.4', '66.1']
+IoU: ['93.2', '64.3']
+mean IoU: 78.7
+
+[epoch: 5]
+train_loss: 0.4876
+lr: 0.009774
+dice coefficient: 0.675
+global correct: 95.7
+average row correct: ['99.1', '78.4']
+IoU: ['95.1', '75.0']
+mean IoU: 85.0
+
+[epoch: 6]
+train_loss: 0.4829
+lr: 0.009728
+dice coefficient: 0.474
+global correct: 90.3
+average row correct: ['98.2', '50.3']
+IoU: ['89.5', '46.1']
+mean IoU: 67.8
+
+[epoch: 7]
+train_loss: 0.4799
+lr: 0.009683
+dice coefficient: 0.631
+global correct: 95.6
+average row correct: ['96.2', '92.5']
+IoU: ['94.8', '77.4']
+mean IoU: 86.1
+
+[epoch: 8]
+train_loss: 0.4710
+lr: 0.009637
+dice coefficient: 0.683
+global correct: 96.6
+average row correct: ['98.4', '87.7']
+IoU: ['96.0', '81.0']
+mean IoU: 88.5
+
+[epoch: 9]
+train_loss: 0.4600
+lr: 0.009592
+dice coefficient: 0.706
+global correct: 96.6
+average row correct: ['98.3', '87.9']
+IoU: ['96.0', '80.9']
+mean IoU: 88.5
+
+[epoch: 10]
+train_loss: 0.4461
+lr: 0.009547
+dice coefficient: 0.693
+global correct: 96.7
+average row correct: ['97.2', '94.4']
+IoU: ['96.1', '82.6']
+mean IoU: 89.4
+
+[epoch: 11]
+train_loss: 0.4619
+lr: 0.009501
+dice coefficient: 0.690
+global correct: 97.2
+average row correct: ['98.4', '91.3']
+IoU: ['96.8', '84.5']
+mean IoU: 90.6
+
